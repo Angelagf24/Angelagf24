@@ -1,6 +1,6 @@
-## Hola, mi nombre es Ángela y soy alumna de la ESI 👩‍🎓
+## Hola, mi nombre es Ángela 👩‍🎓
 
-Hola, soy Ángela, estudiante de cuarto curso de Ingeniería Informática en la Escuela Superior de Informática (ESI) de la Universidad de Castilla-La Mancha (UCLM), realizando la intensificación en Tecnologías de la Información. En este repositorio, subo mis proyectos y trabajos desarrollados a lo largo de mi carrera.
+Hola, soy Ángela, graduada en Ingeniería Informática por la Escuela Superior de Informática (ESI) de la Universidad de Castilla-La Mancha (UCLM), con intensificación en Tecnologías de la Información. Actualmente soy investigadora en el grupo ARCO (UCLM). En este repositorio subo los proyectos y trabajos desarrollados a lo largo del grado.
 
 ### Sobre mí 👩‍💻
 
@@ -20,7 +20,7 @@ A lo largo de mi formación he adquirido conocimientos en una amplia gama de her
 
 ### Proyecto de investigación 🔎
 
-Actualmente estoy trabajando en un proyecto de investigación en el grupo ARCO.
+Actualmente trabajo como investigadora en el grupo ARCO (UCLM), centrada en modelos de lenguaje y sistemas multiagente para su despliegue en entornos de IoT industrial.
 Si quieres saber más sobre mi trabajo en investigación, puedes visitar mi [perfil de GitHub en la UCLM](https://github.com/AngelaGijon), donde comparto los proyectos y cursos en los que he participado como parte de mi proyecto.
 
 ---
